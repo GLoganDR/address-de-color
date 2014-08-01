@@ -1,0 +1,7 @@
+[
+  {"name":"Bob Smith", "email":"bob@aol.com", "phone":"615-555-1212", "color":"red", "website":"http://cnn.com"},
+  {"name":"John Smith", "email":"john@aol.com", "phone":"615-555-1213", "color":"black", "website":"http://facebook.com"},
+  {"name":"Jane Smith", "email":"jane@aol.com", "phone":"615-555-1214", "color":"pink", "website":"http://twitter.com"},
+  {"name":"Jim Smith", "email":"jim@aol.com", "phone":"615-555-1215", "color":"green", "website":"http://myspace.com"},
+  {"name":"Josh Smith", "email":"josh@aol.com", "phone":"615-555-1216", "color":"blue", "website":"http://reverbnation.com"}
+]
